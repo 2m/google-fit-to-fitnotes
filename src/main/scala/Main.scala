@@ -1,5 +1,5 @@
 /*
- * Copyright 2021 github.com/2m/google-git-to-fitnotes/contributors
+ * Copyright 2021 github.com/2m/google-fit-to-fitnotes/contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

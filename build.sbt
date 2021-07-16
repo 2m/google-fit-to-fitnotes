@@ -26,6 +26,6 @@ ThisBuild / scalafixDependencies ++= Seq(
 
 enablePlugins(AutomateHeaderPlugin)
 
-organizationName := "github.com/2m/google-git-to-fitnotes/contributors"
+organizationName := "github.com/2m/google-fit-to-fitnotes/contributors"
 startYear := Some(2021)
 licenses += ("Apache-2.0", url("http://www.apache.org/licenses/LICENSE-2.0"))
